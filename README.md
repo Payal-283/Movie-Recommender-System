@@ -41,3 +41,7 @@ We will now work towards text vectorisation -> every text will be converted into
 Technique used will be -> Bag of words
 
 Bag of words is a Natural Language Processing technique of text modelling. In technical terms, we can say that it is a method of feature extraction with text data. This approach is a simple and flexible way of extracting features from documents.
+
+# Movie-Recommender-System-Output
+
+<img width="1440" alt="Screenshot 2023-08-08 at 8 37 49 PM" src="https://github.com/Payal-283/Movie-Recommender-System/assets/82632569/d1e16e86-6dc7-4a04-ab33-42be490d8b49"><img width="1440" alt="Screenshot 2023-08-08 at 8 38 00 PM" src="https://github.com/Payal-283/Movie-Recommender-System/assets/82632569/4f96e567-6875-4ba6-9689-e82bee2fe258">
